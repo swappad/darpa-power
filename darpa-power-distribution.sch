@@ -20226,7 +20226,7 @@ Source: www.kingbright.com</description>
 <part name="GND2" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND3" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="P+1" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
-<part name="U$2" library="TPSxxxxxx-buck-regulators" deviceset="TPS565208" device=""/>
+<part name="6V_REG" library="TPSxxxxxx-buck-regulators" deviceset="TPS565208" device=""/>
 <part name="VDD2" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VDD" device=""/>
 <part name="C4" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0805K" package3d_urn="urn:adsk.eagle:package:23681/2" value="100n"/>
 <part name="C5" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="CPOL-EU" device="E1.8-4" package3d_urn="urn:adsk.eagle:package:23336/2" value="10u"/>
@@ -20239,7 +20239,7 @@ Source: www.kingbright.com</description>
 <part name="GND4" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND5" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND6" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="S1" library="smd-special" library_urn="urn:adsk.eagle:library:362" deviceset="SWS004" device="" package3d_urn="urn:adsk.eagle:package:26474/1"/>
+<part name="ENABLE" library="smd-special" library_urn="urn:adsk.eagle:library:362" deviceset="SWS004" device="" package3d_urn="urn:adsk.eagle:package:26474/1"/>
 <part name="GND7" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="R5" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="10k"/>
 <part name="R6" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="10k"/>
@@ -20269,10 +20269,10 @@ Source: www.kingbright.com</description>
 <part name="Q3" library="transistor-power" library_urn="urn:adsk.eagle:library:400" deviceset="IRF?5305" device="R" package3d_urn="urn:adsk.eagle:package:29503/2"/>
 <part name="R13" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="100k"/>
 <part name="R14" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1k"/>
-<part name="S2" library="switch" library_urn="urn:adsk.eagle:library:380" deviceset="M251" device="" package3d_urn="urn:adsk.eagle:package:27680/1"/>
+<part name="ON/OFF" library="switch" library_urn="urn:adsk.eagle:library:380" deviceset="M251" device="" package3d_urn="urn:adsk.eagle:package:27680/1"/>
 <part name="GND10" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="VDD4" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VDD" device=""/>
-<part name="U$5" library="TPSxxxxxx-buck-regulators" deviceset="TPS54302" device=""/>
+<part name="12V_REG" library="TPSxxxxxx-buck-regulators" deviceset="TPS54302" device=""/>
 <part name="C9" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="CPOL-EU" device="E2.5-6" package3d_urn="urn:adsk.eagle:package:23349/1" value="22u"/>
 <part name="C10" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0805K" package3d_urn="urn:adsk.eagle:package:23681/2" value="100n"/>
 <part name="C11" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0805K" package3d_urn="urn:adsk.eagle:package:23681/2" value="150p"/>
@@ -20285,7 +20285,7 @@ Source: www.kingbright.com</description>
 <part name="GND12" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND13" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND14" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="U$1" library="TPSxxxxxx-buck-regulators" deviceset="TPS565208" device=""/>
+<part name="5V_REG" library="TPSxxxxxx-buck-regulators" deviceset="TPS565208" device=""/>
 <part name="C13" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0805K" package3d_urn="urn:adsk.eagle:package:23681/2" value="100n"/>
 <part name="X1" library="con-phoenix-508" library_urn="urn:adsk.eagle:library:176" deviceset="MKDSN1,5/2-5,08" device="" package3d_urn="urn:adsk.eagle:package:9630/1"/>
 <part name="GND15" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
@@ -20331,7 +20331,7 @@ Source: www.kingbright.com</description>
 <part name="C33" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="CPOL-EU" device="E1.8-4" package3d_urn="urn:adsk.eagle:package:23336/2" value="10u"/>
 <part name="C34" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="CPOL-EU" device="E7.5-16" package3d_urn="urn:adsk.eagle:package:23382/2" value="470u"/>
 <part name="GND25" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="J1" library="Headers" library_urn="urn:adsk.eagle:library:11687645" deviceset="61300211121" device="" package3d_urn="urn:adsk.eagle:package:11390690/2"/>
+<part name="I2C" library="Headers" library_urn="urn:adsk.eagle:library:11687645" deviceset="61300211121" device="" package3d_urn="urn:adsk.eagle:package:11390690/2"/>
 <part name="X11" library="con-phoenix-508" library_urn="urn:adsk.eagle:library:176" deviceset="MKDSN1,5/2-5,08" device="" package3d_urn="urn:adsk.eagle:package:9630/1"/>
 <part name="X12" library="con-phoenix-508" library_urn="urn:adsk.eagle:library:176" deviceset="MKDSN1,5/2-5,08" device="" package3d_urn="urn:adsk.eagle:package:9630/1"/>
 <part name="GND26" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
@@ -20339,7 +20339,7 @@ Source: www.kingbright.com</description>
 <part name="VDD6" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VDD" device=""/>
 <part name="VDD7" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VDD" device=""/>
 <part name="Q4" library="transistor-small-signal" library_urn="urn:adsk.eagle:library:401" deviceset="BSS123" device="" package3d_urn="urn:adsk.eagle:package:28738/2"/>
-<part name="JP1" library="jumper" library_urn="urn:adsk.eagle:library:252" deviceset="JP2E" device="" package3d_urn="urn:adsk.eagle:package:15452/1"/>
+<part name="JP_ENABLE" library="jumper" library_urn="urn:adsk.eagle:library:252" deviceset="JP2E" device="" package3d_urn="urn:adsk.eagle:package:15452/1"/>
 <part name="Q5" library="transistor-small-signal" library_urn="urn:adsk.eagle:library:401" deviceset="BSS123" device="" package3d_urn="urn:adsk.eagle:package:28738/2"/>
 <part name="Q6" library="transistor-small-signal" library_urn="urn:adsk.eagle:library:401" deviceset="BSS123" device="" package3d_urn="urn:adsk.eagle:package:28738/2"/>
 <part name="GND28" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
@@ -20348,18 +20348,18 @@ Source: www.kingbright.com</description>
 <part name="R15" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="470"/>
 <part name="R16" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="470"/>
 <part name="R17" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="470"/>
-<part name="LED1" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="SML0805" package3d_urn="urn:adsk.eagle:package:15830/1"/>
+<part name="POWER" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="SML0805" package3d_urn="urn:adsk.eagle:package:15830/1"/>
 <part name="R20" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="600"/>
 <part name="VDD8" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VDD" device=""/>
 <part name="GND31" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="LED2" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="SML0805" package3d_urn="urn:adsk.eagle:package:15830/1"/>
+<part name="5V" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="SML0805" package3d_urn="urn:adsk.eagle:package:15830/1"/>
 <part name="R21" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="200"/>
 <part name="GND32" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="LED3" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="SML0805" package3d_urn="urn:adsk.eagle:package:15830/1"/>
+<part name="6V" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="SML0805" package3d_urn="urn:adsk.eagle:package:15830/1"/>
 <part name="R22" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="200"/>
 <part name="GND33" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="LED4" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="SML0805" package3d_urn="urn:adsk.eagle:package:15830/1"/>
-<part name="R23" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="600"/>
+<part name="12V" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="600"/>
 <part name="GND34" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="P+6" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
 </parts>
@@ -20379,7 +20379,7 @@ Battery Supply</text>
 Version 0.0 -- September 2019</text>
 </plain>
 <instances>
-<instance part="S1" gate="G$1" x="218.44" y="78.74" smashed="yes" rot="R270">
+<instance part="ENABLE" gate="G$1" x="218.44" y="78.74" smashed="yes" rot="R270">
 <attribute name="NAME" x="215.9" y="83.82" size="1.778" layer="95"/>
 <attribute name="VALUE" x="215.9" y="69.215" size="1.778" layer="96"/>
 </instance>
@@ -20469,7 +20469,7 @@ Version 0.0 -- September 2019</text>
 <attribute name="NAME" x="26.4414" y="31.75" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="31.242" y="31.75" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="S2" gate="1" x="88.9" y="119.38" smashed="yes">
+<instance part="ON/OFF" gate="1" x="88.9" y="119.38" smashed="yes">
 <attribute name="NAME" x="82.55" y="117.475" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="85.09" y="122.555" size="1.778" layer="96" rot="R90"/>
 </instance>
@@ -20562,7 +20562,7 @@ Version 0.0 -- September 2019</text>
 <instance part="GND25" gate="1" x="111.76" y="142.24" smashed="yes">
 <attribute name="VALUE" x="109.22" y="139.7" size="1.778" layer="96"/>
 </instance>
-<instance part="J1" gate="G$1" x="238.76" y="127" smashed="yes" rot="R180">
+<instance part="I2C" gate="G$1" x="238.76" y="127" smashed="yes" rot="R180">
 <attribute name="NAME" x="241.3" y="122.936" size="1.27" layer="95" rot="R180"/>
 <attribute name="VALUE" x="241.3" y="134.62" size="1.27" layer="96" rot="R180"/>
 </instance>
@@ -20598,7 +20598,7 @@ Version 0.0 -- September 2019</text>
 <attribute name="NAME" x="187.96" y="58.42" size="1.778" layer="95"/>
 <attribute name="VALUE" x="200.66" y="53.34" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="JP1" gate="1" x="170.18" y="48.26" smashed="yes" rot="R90">
+<instance part="JP_ENABLE" gate="1" x="170.18" y="48.26" smashed="yes" rot="R90">
 <attribute name="NAME" x="170.18" y="44.45" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="170.18" y="53.975" size="1.778" layer="96" rot="R180"/>
 </instance>
@@ -20631,7 +20631,7 @@ Version 0.0 -- September 2019</text>
 <attribute name="NAME" x="237.49" y="44.2214" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="237.49" y="49.022" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="LED1" gate="G$1" x="251.46" y="147.32" smashed="yes">
+<instance part="POWER" gate="G$1" x="251.46" y="147.32" smashed="yes">
 <attribute name="NAME" x="255.016" y="142.748" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="257.175" y="142.748" size="1.778" layer="96" rot="R90"/>
 </instance>
@@ -20687,20 +20687,20 @@ Version 0.0 -- September 2019</text>
 </net>
 <net name="GND" class="0">
 <segment>
-<pinref part="S1" gate="G$1" pin="4"/>
+<pinref part="ENABLE" gate="G$1" pin="4"/>
 <wire x1="213.36" y1="73.66" x2="210.82" y2="73.66" width="0.1524" layer="91"/>
 <wire x1="210.82" y1="73.66" x2="210.82" y2="76.2" width="0.1524" layer="91"/>
 <pinref part="GND7" gate="1" pin="GND"/>
 <wire x1="210.82" y1="76.2" x2="210.82" y2="78.74" width="0.1524" layer="91"/>
 <wire x1="210.82" y1="78.74" x2="210.82" y2="81.28" width="0.1524" layer="91"/>
 <wire x1="210.82" y1="81.28" x2="208.28" y2="81.28" width="0.1524" layer="91"/>
-<pinref part="S1" gate="G$1" pin="1"/>
+<pinref part="ENABLE" gate="G$1" pin="1"/>
 <wire x1="213.36" y1="81.28" x2="210.82" y2="81.28" width="0.1524" layer="91"/>
 <junction x="210.82" y="81.28"/>
-<pinref part="S1" gate="G$1" pin="2"/>
+<pinref part="ENABLE" gate="G$1" pin="2"/>
 <wire x1="213.36" y1="78.74" x2="210.82" y2="78.74" width="0.1524" layer="91"/>
 <junction x="210.82" y="78.74"/>
-<pinref part="S1" gate="G$1" pin="3"/>
+<pinref part="ENABLE" gate="G$1" pin="3"/>
 <wire x1="213.36" y1="76.2" x2="210.82" y2="76.2" width="0.1524" layer="91"/>
 <junction x="210.82" y="76.2"/>
 </segment>
@@ -20734,7 +20734,7 @@ Version 0.0 -- September 2019</text>
 <junction x="154.94" y="109.22"/>
 </segment>
 <segment>
-<pinref part="S2" gate="1" pin="P"/>
+<pinref part="ON/OFF" gate="1" pin="P"/>
 <pinref part="GND10" gate="1" pin="GND"/>
 <wire x1="91.44" y1="114.3" x2="91.44" y2="111.76" width="0.1524" layer="91"/>
 </segment>
@@ -20820,7 +20820,7 @@ Version 0.0 -- September 2019</text>
 </segment>
 <segment>
 <pinref part="GND31" gate="1" pin="GND"/>
-<pinref part="LED1" gate="G$1" pin="C"/>
+<pinref part="POWER" gate="G$1" pin="C"/>
 <wire x1="251.46" y1="139.7" x2="251.46" y2="142.24" width="0.1524" layer="91"/>
 </segment>
 </net>
@@ -20860,7 +20860,7 @@ Version 0.0 -- September 2019</text>
 </net>
 <net name="EN_MOTORS" class="0">
 <segment>
-<pinref part="S1" gate="G$1" pin="8"/>
+<pinref part="ENABLE" gate="G$1" pin="8"/>
 <wire x1="226.06" y1="81.28" x2="228.6" y2="81.28" width="0.1524" layer="91"/>
 <label x="228.6" y="81.28" size="1.016" layer="95" xref="yes"/>
 </segment>
@@ -20877,7 +20877,7 @@ Version 0.0 -- September 2019</text>
 </net>
 <net name="EN_UDOO" class="0">
 <segment>
-<pinref part="S1" gate="G$1" pin="7"/>
+<pinref part="ENABLE" gate="G$1" pin="7"/>
 <wire x1="226.06" y1="78.74" x2="228.6" y2="78.74" width="0.1524" layer="91"/>
 <label x="228.6" y="78.74" size="1.016" layer="95" xref="yes"/>
 </segment>
@@ -20889,14 +20889,14 @@ Version 0.0 -- September 2019</text>
 </net>
 <net name="EN_5V" class="0">
 <segment>
-<pinref part="S1" gate="G$1" pin="6"/>
+<pinref part="ENABLE" gate="G$1" pin="6"/>
 <wire x1="226.06" y1="76.2" x2="228.6" y2="76.2" width="0.1524" layer="91"/>
 <label x="228.6" y="76.2" size="1.016" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="EN_6V" class="0">
 <segment>
-<pinref part="S1" gate="G$1" pin="5"/>
+<pinref part="ENABLE" gate="G$1" pin="5"/>
 <wire x1="226.06" y1="73.66" x2="228.6" y2="73.66" width="0.1524" layer="91"/>
 <label x="228.6" y="73.66" size="1.016" layer="95" xref="yes"/>
 </segment>
@@ -20943,7 +20943,7 @@ Version 0.0 -- September 2019</text>
 <wire x1="213.36" y1="132.08" x2="226.06" y2="132.08" width="0.1524" layer="91"/>
 <pinref part="R10" gate="G$1" pin="1"/>
 <wire x1="226.06" y1="134.62" x2="226.06" y2="132.08" width="0.1524" layer="91"/>
-<pinref part="J1" gate="G$1" pin="2"/>
+<pinref part="I2C" gate="G$1" pin="2"/>
 <wire x1="231.14" y1="129.54" x2="231.14" y2="132.08" width="0.1524" layer="91"/>
 <wire x1="231.14" y1="132.08" x2="226.06" y2="132.08" width="0.1524" layer="91"/>
 <junction x="226.06" y="132.08"/>
@@ -20959,7 +20959,7 @@ Version 0.0 -- September 2019</text>
 <junction x="220.98" y="127"/>
 <pinref part="R9" gate="G$1" pin="1"/>
 <wire x1="220.98" y1="134.62" x2="220.98" y2="127" width="0.1524" layer="91"/>
-<pinref part="J1" gate="G$1" pin="1"/>
+<pinref part="I2C" gate="G$1" pin="1"/>
 <wire x1="220.98" y1="127" x2="231.14" y2="127" width="0.1524" layer="91"/>
 </segment>
 </net>
@@ -21073,7 +21073,7 @@ Version 0.0 -- September 2019</text>
 </net>
 <net name="N$14" class="0">
 <segment>
-<pinref part="S2" gate="1" pin="S"/>
+<pinref part="ON/OFF" gate="1" pin="S"/>
 <pinref part="R12" gate="G$1" pin="1"/>
 <wire x1="93.98" y1="124.46" x2="93.98" y2="129.54" width="0.1524" layer="91"/>
 </segment>
@@ -21101,11 +21101,12 @@ Version 0.0 -- September 2019</text>
 <wire x1="187.96" y1="50.8" x2="190.5" y2="50.8" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$21" class="0">
+<net name="JP_MOTORS" class="0">
 <segment>
 <pinref part="R15" gate="G$1" pin="2"/>
-<pinref part="JP1" gate="1" pin="3"/>
+<pinref part="JP_ENABLE" gate="1" pin="3"/>
 <wire x1="177.8" y1="50.8" x2="172.72" y2="50.8" width="0.1524" layer="91"/>
+<label x="167.64" y="53.34" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="N$23" class="0">
@@ -21115,23 +21116,25 @@ Version 0.0 -- September 2019</text>
 <wire x1="210.82" y1="48.26" x2="213.36" y2="50.8" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$8" class="0">
+<net name="JP_12V" class="0">
 <segment>
 <pinref part="R17" gate="G$1" pin="2"/>
-<pinref part="JP1" gate="1" pin="1"/>
+<pinref part="JP_ENABLE" gate="1" pin="1"/>
 <wire x1="228.6" y1="45.72" x2="172.72" y2="45.72" width="0.1524" layer="91"/>
+<label x="172.72" y="43.18" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="N$22" class="0">
+<net name="JP_6V" class="0">
 <segment>
 <pinref part="R16" gate="G$1" pin="2"/>
-<pinref part="JP1" gate="1" pin="2"/>
+<pinref part="JP_ENABLE" gate="1" pin="2"/>
 <wire x1="200.66" y1="48.26" x2="172.72" y2="48.26" width="0.1524" layer="91"/>
+<label x="172.72" y="48.26" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="N$27" class="0">
 <segment>
-<pinref part="LED1" gate="G$1" pin="A"/>
+<pinref part="POWER" gate="G$1" pin="A"/>
 <pinref part="R20" gate="G$1" pin="1"/>
 <wire x1="251.46" y1="149.86" x2="251.46" y2="152.4" width="0.1524" layer="91"/>
 </segment>
@@ -21187,7 +21190,7 @@ Version 0.0 -- September 2019</text>
 <instance part="P+1" gate="1" x="157.48" y="165.1" smashed="yes">
 <attribute name="VALUE" x="154.94" y="160.02" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="U$2" gate="G$1" x="73.66" y="101.6" smashed="yes">
+<instance part="6V_REG" gate="G$1" x="73.66" y="101.6" smashed="yes">
 <attribute name="NAME" x="66.04" y="109.22" size="1.778" layer="95"/>
 <attribute name="VALUE" x="66.04" y="88.9" size="1.778" layer="96"/>
 </instance>
@@ -21243,7 +21246,7 @@ Version 0.0 -- September 2019</text>
 <attribute name="NAME" x="54.61" y="153.4414" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="54.61" y="158.242" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="U$5" gate="G$1" x="66.04" y="48.26" smashed="yes">
+<instance part="12V_REG" gate="G$1" x="66.04" y="48.26" smashed="yes">
 <attribute name="NAME" x="58.42" y="55.88" size="1.778" layer="95"/>
 <attribute name="VALUE" x="58.42" y="35.56" size="1.778" layer="96"/>
 </instance>
@@ -21290,7 +21293,7 @@ Version 0.0 -- September 2019</text>
 <instance part="GND14" gate="1" x="50.8" y="33.02" smashed="yes">
 <attribute name="VALUE" x="48.26" y="30.48" size="1.778" layer="96"/>
 </instance>
-<instance part="U$1" gate="G$1" x="73.66" y="154.94" smashed="yes">
+<instance part="5V_REG" gate="G$1" x="73.66" y="154.94" smashed="yes">
 <attribute name="NAME" x="66.04" y="162.56" size="1.778" layer="95"/>
 <attribute name="VALUE" x="66.04" y="142.24" size="1.778" layer="96"/>
 </instance>
@@ -21418,7 +21421,7 @@ Version 0.0 -- September 2019</text>
 <attribute name="NAME" x="199.263" y="38.5826" size="1.778" layer="95"/>
 <attribute name="VALUE" x="199.263" y="33.5026" size="1.778" layer="96"/>
 </instance>
-<instance part="LED2" gate="G$1" x="243.84" y="147.32" smashed="yes">
+<instance part="5V" gate="G$1" x="243.84" y="147.32" smashed="yes">
 <attribute name="NAME" x="247.396" y="142.748" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="249.555" y="142.748" size="1.778" layer="96" rot="R90"/>
 </instance>
@@ -21429,7 +21432,7 @@ Version 0.0 -- September 2019</text>
 <instance part="GND32" gate="1" x="243.84" y="137.16" smashed="yes">
 <attribute name="VALUE" x="241.3" y="134.62" size="1.778" layer="96"/>
 </instance>
-<instance part="LED3" gate="G$1" x="243.84" y="93.98" smashed="yes">
+<instance part="6V" gate="G$1" x="243.84" y="93.98" smashed="yes">
 <attribute name="NAME" x="247.396" y="89.408" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="249.555" y="89.408" size="1.778" layer="96" rot="R90"/>
 </instance>
@@ -21444,7 +21447,7 @@ Version 0.0 -- September 2019</text>
 <attribute name="NAME" x="247.396" y="38.608" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="249.555" y="38.608" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="R23" gate="G$1" x="243.84" y="53.34" smashed="yes" rot="R90">
+<instance part="12V" gate="G$1" x="243.84" y="53.34" smashed="yes" rot="R90">
 <attribute name="NAME" x="242.3414" y="49.53" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="247.142" y="49.53" size="1.778" layer="96" rot="R90"/>
 </instance>
@@ -21473,7 +21476,7 @@ Version 0.0 -- September 2019</text>
 <wire x1="45.72" y1="154.94" x2="43.18" y2="154.94" width="0.1524" layer="91"/>
 <wire x1="43.18" y1="154.94" x2="43.18" y2="160.02" width="0.1524" layer="91"/>
 <junction x="43.18" y="160.02"/>
-<pinref part="U$1" gate="G$1" pin="VIN"/>
+<pinref part="5V_REG" gate="G$1" pin="VIN"/>
 <pinref part="C13" gate="G$1" pin="1"/>
 <wire x1="35.56" y1="157.48" x2="35.56" y2="160.02" width="0.1524" layer="91"/>
 <junction x="35.56" y="160.02"/>
@@ -21481,7 +21484,7 @@ Version 0.0 -- September 2019</text>
 <segment>
 <pinref part="VDD2" gate="G$1" pin="VDD"/>
 <wire x1="17.78" y1="109.22" x2="17.78" y2="106.68" width="0.1524" layer="91"/>
-<pinref part="U$2" gate="G$1" pin="VIN"/>
+<pinref part="6V_REG" gate="G$1" pin="VIN"/>
 <pinref part="C5" gate="G$1" pin="+"/>
 <wire x1="60.96" y1="106.68" x2="43.18" y2="106.68" width="0.1524" layer="91"/>
 <wire x1="43.18" y1="106.68" x2="35.56" y2="106.68" width="0.1524" layer="91"/>
@@ -21499,7 +21502,7 @@ Version 0.0 -- September 2019</text>
 </segment>
 <segment>
 <pinref part="VDD5" gate="G$1" pin="VDD"/>
-<pinref part="U$5" gate="G$1" pin="VIN"/>
+<pinref part="12V_REG" gate="G$1" pin="VIN"/>
 <wire x1="17.78" y1="55.88" x2="17.78" y2="53.34" width="0.1524" layer="91"/>
 <wire x1="17.78" y1="53.34" x2="27.94" y2="53.34" width="0.1524" layer="91"/>
 <pinref part="C9" gate="G$1" pin="+"/>
@@ -21518,14 +21521,14 @@ Version 0.0 -- September 2019</text>
 <wire x1="109.22" y1="149.86" x2="109.22" y2="144.78" width="0.1524" layer="91"/>
 <wire x1="109.22" y1="144.78" x2="127" y2="144.78" width="0.1524" layer="91"/>
 <junction x="127" y="144.78"/>
-<pinref part="U$1" gate="G$1" pin="VFB"/>
+<pinref part="5V_REG" gate="G$1" pin="VFB"/>
 </segment>
 </net>
 <net name="N$2" class="0">
 <segment>
 <pinref part="C2" gate="G$1" pin="1"/>
 <wire x1="86.36" y1="154.94" x2="91.44" y2="154.94" width="0.1524" layer="91"/>
-<pinref part="U$1" gate="G$1" pin="VBST"/>
+<pinref part="5V_REG" gate="G$1" pin="VBST"/>
 </segment>
 </net>
 <net name="N$3" class="0">
@@ -21537,7 +21540,7 @@ Version 0.0 -- September 2019</text>
 <pinref part="L3" gate="G$1" pin="1"/>
 <wire x1="104.14" y1="160.02" x2="106.68" y2="160.02" width="0.1524" layer="91"/>
 <junction x="104.14" y="160.02"/>
-<pinref part="U$1" gate="G$1" pin="SW"/>
+<pinref part="5V_REG" gate="G$1" pin="SW"/>
 </segment>
 </net>
 <net name="GND" class="0">
@@ -21554,14 +21557,14 @@ Version 0.0 -- September 2019</text>
 <wire x1="25.4" y1="149.86" x2="25.4" y2="147.32" width="0.1524" layer="91"/>
 <wire x1="25.4" y1="147.32" x2="35.56" y2="147.32" width="0.1524" layer="91"/>
 <junction x="43.18" y="147.32"/>
-<pinref part="U$1" gate="G$1" pin="GND"/>
+<pinref part="5V_REG" gate="G$1" pin="GND"/>
 <pinref part="C13" gate="G$1" pin="2"/>
 <wire x1="35.56" y1="147.32" x2="43.18" y2="147.32" width="0.1524" layer="91"/>
 <wire x1="35.56" y1="149.86" x2="35.56" y2="147.32" width="0.1524" layer="91"/>
 <junction x="35.56" y="147.32"/>
 </segment>
 <segment>
-<pinref part="U$2" gate="G$1" pin="GND"/>
+<pinref part="6V_REG" gate="G$1" pin="GND"/>
 <pinref part="GND4" gate="1" pin="GND"/>
 <wire x1="60.96" y1="93.98" x2="40.64" y2="93.98" width="0.1524" layer="91"/>
 <wire x1="40.64" y1="93.98" x2="40.64" y2="86.36" width="0.1524" layer="91"/>
@@ -21590,7 +21593,7 @@ Version 0.0 -- September 2019</text>
 <wire x1="27.94" y1="43.18" x2="27.94" y2="35.56" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="U$5" gate="G$1" pin="GND"/>
+<pinref part="12V_REG" gate="G$1" pin="GND"/>
 <pinref part="GND14" gate="1" pin="GND"/>
 <wire x1="53.34" y1="40.64" x2="50.8" y2="40.64" width="0.1524" layer="91"/>
 <wire x1="50.8" y1="40.64" x2="50.8" y2="35.56" width="0.1524" layer="91"/>
@@ -21684,12 +21687,12 @@ Version 0.0 -- September 2019</text>
 </segment>
 <segment>
 <pinref part="GND32" gate="1" pin="GND"/>
-<pinref part="LED2" gate="G$1" pin="C"/>
+<pinref part="5V" gate="G$1" pin="C"/>
 <wire x1="243.84" y1="139.7" x2="243.84" y2="142.24" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="GND33" gate="1" pin="GND"/>
-<pinref part="LED3" gate="G$1" pin="C"/>
+<pinref part="6V" gate="G$1" pin="C"/>
 <wire x1="243.84" y1="86.36" x2="243.84" y2="88.9" width="0.1524" layer="91"/>
 </segment>
 <segment>
@@ -21745,7 +21748,7 @@ Version 0.0 -- September 2019</text>
 </net>
 <net name="N$4" class="0">
 <segment>
-<pinref part="U$2" gate="G$1" pin="SW"/>
+<pinref part="6V_REG" gate="G$1" pin="SW"/>
 <pinref part="L1" gate="G$1" pin="1"/>
 <wire x1="86.36" y1="106.68" x2="101.6" y2="106.68" width="0.1524" layer="91"/>
 <pinref part="C6" gate="G$1" pin="2"/>
@@ -21758,13 +21761,13 @@ Version 0.0 -- September 2019</text>
 <net name="N$5" class="0">
 <segment>
 <pinref part="C6" gate="G$1" pin="1"/>
-<pinref part="U$2" gate="G$1" pin="VBST"/>
+<pinref part="6V_REG" gate="G$1" pin="VBST"/>
 <wire x1="91.44" y1="101.6" x2="86.36" y2="101.6" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$7" class="0">
 <segment>
-<pinref part="U$2" gate="G$1" pin="VFB"/>
+<pinref part="6V_REG" gate="G$1" pin="VFB"/>
 <wire x1="86.36" y1="96.52" x2="111.76" y2="96.52" width="0.1524" layer="91"/>
 <wire x1="111.76" y1="96.52" x2="111.76" y2="91.44" width="0.1524" layer="91"/>
 <wire x1="111.76" y1="91.44" x2="127" y2="91.44" width="0.1524" layer="91"/>
@@ -21820,7 +21823,7 @@ Version 0.0 -- September 2019</text>
 <net name="EN_6V" class="0">
 <segment>
 <pinref part="R5" gate="G$1" pin="1"/>
-<pinref part="U$2" gate="G$1" pin="EN"/>
+<pinref part="6V_REG" gate="G$1" pin="EN"/>
 <wire x1="55.88" y1="101.6" x2="58.42" y2="101.6" width="0.1524" layer="91"/>
 <wire x1="58.42" y1="101.6" x2="60.96" y2="101.6" width="0.1524" layer="91"/>
 <wire x1="58.42" y1="101.6" x2="58.42" y2="111.76" width="0.1524" layer="91"/>
@@ -21836,12 +21839,12 @@ Version 0.0 -- September 2019</text>
 <wire x1="58.42" y1="154.94" x2="58.42" y2="165.1" width="0.1524" layer="91"/>
 <junction x="58.42" y="154.94"/>
 <label x="58.42" y="165.1" size="1.778" layer="95" rot="R180" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="EN"/>
+<pinref part="5V_REG" gate="G$1" pin="EN"/>
 </segment>
 </net>
 <net name="EN_UDOO" class="0">
 <segment>
-<pinref part="U$5" gate="G$1" pin="EN"/>
+<pinref part="12V_REG" gate="G$1" pin="EN"/>
 <wire x1="50.8" y1="48.26" x2="53.34" y2="48.26" width="0.1524" layer="91"/>
 <wire x1="50.8" y1="48.26" x2="50.8" y2="58.42" width="0.1524" layer="91"/>
 <label x="50.8" y="58.42" size="1.778" layer="95" rot="R180" xref="yes"/>
@@ -21849,7 +21852,7 @@ Version 0.0 -- September 2019</text>
 </net>
 <net name="N$17" class="0">
 <segment>
-<pinref part="U$5" gate="G$1" pin="BOOT"/>
+<pinref part="12V_REG" gate="G$1" pin="BOOT"/>
 <pinref part="C10" gate="G$1" pin="1"/>
 <wire x1="78.74" y1="53.34" x2="81.28" y2="53.34" width="0.1524" layer="91"/>
 </segment>
@@ -21861,7 +21864,7 @@ Version 0.0 -- September 2019</text>
 <wire x1="91.44" y1="53.34" x2="91.44" y2="48.26" width="0.1524" layer="91"/>
 <pinref part="L2" gate="G$1" pin="1"/>
 <wire x1="91.44" y1="48.26" x2="96.52" y2="48.26" width="0.1524" layer="91"/>
-<pinref part="U$5" gate="G$1" pin="SW"/>
+<pinref part="12V_REG" gate="G$1" pin="SW"/>
 <wire x1="78.74" y1="48.26" x2="91.44" y2="48.26" width="0.1524" layer="91"/>
 <junction x="91.44" y="48.26"/>
 </segment>
@@ -21905,7 +21908,7 @@ Version 0.0 -- September 2019</text>
 <label x="193.04" y="60.96" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<pinref part="R23" gate="G$1" pin="2"/>
+<pinref part="12V" gate="G$1" pin="2"/>
 <wire x1="243.84" y1="58.42" x2="243.84" y2="60.96" width="0.1524" layer="91"/>
 <label x="243.84" y="60.96" size="1.778" layer="95" rot="R90" xref="yes"/>
 </segment>
@@ -21920,7 +21923,7 @@ Version 0.0 -- September 2019</text>
 <wire x1="127" y1="35.56" x2="116.84" y2="35.56" width="0.1524" layer="91"/>
 <wire x1="116.84" y1="35.56" x2="116.84" y2="40.64" width="0.1524" layer="91"/>
 <junction x="127" y="35.56"/>
-<pinref part="U$5" gate="G$1" pin="FB"/>
+<pinref part="12V_REG" gate="G$1" pin="FB"/>
 <wire x1="78.74" y1="40.64" x2="91.44" y2="40.64" width="0.1524" layer="91"/>
 <wire x1="91.44" y1="40.64" x2="91.44" y2="35.56" width="0.1524" layer="91"/>
 <wire x1="91.44" y1="35.56" x2="116.84" y2="35.56" width="0.1524" layer="91"/>
@@ -21929,14 +21932,14 @@ Version 0.0 -- September 2019</text>
 </net>
 <net name="N$28" class="0">
 <segment>
-<pinref part="LED2" gate="G$1" pin="A"/>
+<pinref part="5V" gate="G$1" pin="A"/>
 <pinref part="R21" gate="G$1" pin="1"/>
 <wire x1="243.84" y1="149.86" x2="243.84" y2="152.4" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$29" class="0">
 <segment>
-<pinref part="LED3" gate="G$1" pin="A"/>
+<pinref part="6V" gate="G$1" pin="A"/>
 <pinref part="R22" gate="G$1" pin="1"/>
 <wire x1="243.84" y1="96.52" x2="243.84" y2="99.06" width="0.1524" layer="91"/>
 </segment>
@@ -21944,7 +21947,7 @@ Version 0.0 -- September 2019</text>
 <net name="N$30" class="0">
 <segment>
 <pinref part="LED4" gate="G$1" pin="A"/>
-<pinref part="R23" gate="G$1" pin="1"/>
+<pinref part="12V" gate="G$1" pin="1"/>
 <wire x1="243.84" y1="45.72" x2="243.84" y2="48.26" width="0.1524" layer="91"/>
 </segment>
 </net>
